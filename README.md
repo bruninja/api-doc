@@ -345,7 +345,15 @@ Envia: `json`
 **GET|HEAD** - api/senhaFinanceira/{senha}
 ```json
 {
-    "???"
+ "users_id":1,
+ "rfi_saldo_disponivel":"1000000.00",
+ "rfi_debito":"0.00",
+ "rfi_saldo_lideranca":"0.00",
+ "rfi_debito_saldo_lideranca":"0.00",
+ "rfi_teto_mfi":"0.00",
+ "rfi_bonus":"0.00",
+ "rfi_estorno":"0.00",
+ "irf":"0.00000"
 }
 ```
 
