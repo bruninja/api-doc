@@ -100,10 +100,10 @@ Envia: `json`
 {
     "user": {
         "id": 1,
-        "name": "vagner",
-        "first_name": "Vagner",
-        "last_name": "Ribeiro dos Santos",
-        "email": "vagn.fedora@mail.com",
+        "name": "einstein",
+        "first_name": "Albert",
+        "last_name": "Einstein",
+        "email": "albert@mail.com",
         "status_atual": 1,
         "isFranqueado": 1,
         "created_at": "2018-03-15 16:26:00",
@@ -132,10 +132,10 @@ Envia: `json`
 {
     "franqueado": {
         "id": 1,
-        "name": "vagner",
-        "first_name": "Vagner",
-        "last_name": "Ribeiro dos Santos",
-        "email": "vagn.fedora@mail.com",
+        "name": "einstein",
+        "first_name": "Albert",
+        "last_name": "Einstein",
+        "email": "einstein@mail.com",
         "status_atual": 1,
         "isFranqueado": 1,
         "created_at": "2018-03-15 16:26:00",
@@ -178,10 +178,10 @@ Envia: `json`
 ```json
 {
     "id": 1,
-    "name": "vagner",
-    "first_name": "Vagner",
-    "last_name": "Ribeiro dos Santos",
-    "email": "vagn.fedora@mail.com",
+    "name": "einstein",
+    "first_name": "ALbert",
+    "last_name": "Eintein",
+    "email": "einstein@mail.com",
     "status_atual": 1,
     "isFranqueado": 1,
     "created_at": "2018-03-15 16:26:00",
