@@ -296,7 +296,16 @@ Envia: `json`
 **POST**     | api/order/store
 ```json
 {
-    "???"
+    itens_pedido: {
+        {
+            produto_id: INT,
+            produto_qnt: INT
+        },
+        {
+            produto_id: INT,
+            produto_qnt: INT
+        }
+    }
 }
 ```
 
