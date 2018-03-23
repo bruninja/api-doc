@@ -338,22 +338,30 @@ Envia: `json`
 **GET|HEAD** - api/products/list
 ```json
 {
-    "Trying to get property of non-object"
+    
+{id: 1, produto__tipos_id: 1, nome: "DigiPartner", descricao: "Pacote de ativação", valor: "50.00",…}
+1
+:
+{id: 2, produto__tipos_id: 2, nome: "DigiHash", descricao: "8 MH/s Poder de mineração",…}
+2
+:
+{id: 3, produto__tipos_id: 2, nome: "DigiHash", descricao: "21 MH/s Poder de mineração",…}
+3
+:
+{id: 4, produto__tipos_id: 2, nome: "DigiHash", descricao: "39 MH/s Poder de mineração",…}
+4
+:
+{id: 5, produto__tipos_id: 2, nome: "DigiHash", descricao: "79 MH/s Poder de mineração",…}
+5
+:
+{id: 6, produto__tipos_id: 2, nome: "DigiHash", descricao: "263 MH/s Poder de mineração",…}
 }
 ```
 ### INDICADOR/{pedido} - GET
 **GET|HEAD** - api/senhaFinanceira/{senha}
 ```json
 {
- "users_id":1,
- "rfi_saldo_disponivel":"1000000.00",
- "rfi_debito":"0.00",
- "rfi_saldo_lideranca":"0.00",
- "rfi_debito_saldo_lideranca":"0.00",
- "rfi_teto_mfi":"0.00",
- "rfi_bonus":"0.00",
- "rfi_estorno":"0.00",
- "irf":"0.00000"
+ "???"
 }
 ```
 
